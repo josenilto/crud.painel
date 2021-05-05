@@ -1,0 +1,25 @@
+
+.person-form{
+    margin-top: 40px;
+}
+
+.person-container-tamanho{
+    width: 90%;
+    
+}
+
+.person-form-formulario{
+    margin-top: 20px;
+}
+
+.person-btn-footer{
+    text-align: right;
+}
+
+.person-btn-rose{
+    background-color: #ff1168; /* Cor do Fundo */
+    color: #ffffff; /* Cor da Lentra */
+}
+.person-listagem{
+    color: #ffffff;
+}
